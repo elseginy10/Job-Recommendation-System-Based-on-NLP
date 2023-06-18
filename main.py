@@ -5,10 +5,10 @@ from nlp.model import predict_job_title
 
 JOBS_LINKS = {
     'Data Scientist': r'https://www.linkedin.com/jobs/view/3635238507/',
-    'Full-Stack Developer': r'https://www.linkedin.com/jobs/view/3606000801/',
-    'Software Developer': r'https://www.linkedin.com/jobs/view/3611699569/',
+    'Full-Stack Developer': r'https://www.linkedin.com/jobs/view/3590320922',
+    'Software Developer': r'https://www.linkedin.com/jobs/view/3629116833',
     'Cloud Engineer': r'https://www.linkedin.com/jobs/view/3606004754/',
-    'Network Administrator': r'https://www.linkedin.com/jobs/view/3623816565/',
+    'Network Administrator': r'https://www.linkedin.com/jobs/view/3634041436',
 }
 
 PRIMARY_COLOR = '#FFA500'
